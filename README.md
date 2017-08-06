@@ -1,8 +1,6 @@
-# Startpage
+# Simple startpage with bookmarks and a search bar
+- [Depends on wal for styling](https://github.com/dylanaraps/pywal)
 
-Live here: http://dylanaraps.com/startpage
+## Screenshot
 
-- Links can be changed in the html file.
-- Colors can be changed in the css file.
-
-![scrot](https://ipfs.pics/ipfs/QmefqoNgvgV2QWJpvKuzx8hxaD5kFiRUB2Nt8AtpAtnh58)
+![](screenshot.png)
