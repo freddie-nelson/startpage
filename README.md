@@ -1,5 +1,6 @@
-# Simple startpage with bookmarks and a search bar
-- [Depends on wal for styling](https://github.com/dylanaraps/pywal)
+# Simple startpage with generated colors
+Bookmarks and a searchbar.
+- [Depends on wal's css for styling](https://github.com/dylanaraps/pywal)
 
 ## Screenshot
 
