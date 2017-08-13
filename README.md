@@ -1,5 +1,5 @@
 # Simple startpage with generated colors
-Bookmarks and a searchbar.
+Merely a list of bookmarks
 - [Depends on wal's css for styling](https://github.com/dylanaraps/pywal)
 
 ## Screenshot
