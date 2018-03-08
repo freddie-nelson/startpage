@@ -1,8 +1,9 @@
-@import url('file:///home/ecly/.cache/wal/colors.css');
 :root {
     --width: 400px;
-    --foreground-alt: var(--color2);
-    --foreground-alt-alt: var(--color4);
+    --foreground: DarkGrey;
+    --foreground-alt: LightGrey;
+    --foreground-alt-alt: DimGrey;
+    --background: White;
     --font: 'xos4 Terminus';
 }
 
@@ -47,7 +48,7 @@ h1 {
 
 hr {
     border: 0;
-    border-top: 1px solid var(--color6);
+    border-top: 1px solid var(--foreground-alt-alt);
     opacity: .4;
     width: var(--width);
 }
@@ -59,7 +60,7 @@ ul {
 }
 
 li {
-    color: var(--foreground-alt);
+    color: var(--foreground);
     display: inline-block;
     font-size: 1.2em;
     line-height: 1.5;
@@ -68,7 +69,7 @@ li {
 }
 
 a {
-    color: var(--foreground);
+    color: var(--foreground-alt);
     text-decoration: none;
     transition: .2s;
 
