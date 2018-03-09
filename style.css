@@ -1,4 +1,7 @@
+/* @import url('file:///home/ecly/.cache/wal/colors.css'); */
 :root {
+    /* for colors from pywal use import at top of file */
+    /* and var(--color[1-15]) */
     --width: 400px;
     --foreground: DarkGrey;
     --foreground-alt: LightGrey;
