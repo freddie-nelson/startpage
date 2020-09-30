@@ -51,6 +51,7 @@ hr {
     border-top: 1px solid var(--foreground-alt-alt);
     opacity: .4;
     width: var(--width);
+    border-width: 2px
 }
 
 ul {
