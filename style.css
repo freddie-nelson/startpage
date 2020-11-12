@@ -1,9 +1,9 @@
 :root {
     --width: 400px;
-    --foreground: DarkGrey;
-    --foreground-alt: LightGrey;
-    --foreground-alt-alt: DimGrey;
-    --background: White;
+    --foreground: #045A6B;
+    --foreground-alt: #A6E7E3;
+    --foreground-alt-alt: #4D9FAA;
+    --background: #035A6D;
     --font: 'Terminus (TTF)';
 }
 
